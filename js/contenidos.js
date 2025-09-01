@@ -17,7 +17,7 @@ cajas.forEach((caja, index)=> {
     caja.style.color = "purple";
     caja.style.fontSize = "20px";
     caja.style.textAlign = "right";
-    caja.style.background = "pink";
+    
    
     
 });
